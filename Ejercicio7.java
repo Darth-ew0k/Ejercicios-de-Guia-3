@@ -1,4 +1,4 @@
-package ejercicosestructurasdecontrol;
+package EjerciciosGuia3;
 
 import java.util.Scanner;
 
@@ -14,7 +14,7 @@ import java.util.Scanner;
  *
  * @author ruben
  */
-public class ejercicio7 {
+public class Ejercicio7 {
 
     /**
      * @param args the command line arguments
